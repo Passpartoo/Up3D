@@ -22,7 +22,11 @@ cd <name_folder>
 # NPM Installer
 ```
 pnpm install @dimforge/rapier3d-compat -S
+```
+```
 pnpm install three -S
+```
+```
 pnpm install vite -D
 ```
 # Or Yarn Installer
