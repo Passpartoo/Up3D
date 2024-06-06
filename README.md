@@ -7,14 +7,14 @@ High definition 3D display on web browser in Javascript
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Requirements :
-  - physics engine : Rapier [this live preview](https://github.com/dimforge/rapier)
-  - 3D graphics engine : Three Js [this live preview](https://threejs.org/)
-  - development server : Vite [this live preview](https://vitejs.dev/config/server-options)
+  - physics engine : [Rapier](https://github.com/dimforge/rapier)
+  - 3D graphics engine : [Three Js](https://threejs.org/)
+  - development server : [Vite](https://vitejs.dev/config/server-options)
   - Blender level design skills and mesh
     
 # Installation
 
-git clone <[url_du_dépôt](https://github.com/Passpartoo/Up3D/)>
+git clone <[Up3D](https://github.com/Passpartoo/Up3D/)>
 
 # Project Folder
 cd <name_folder>
