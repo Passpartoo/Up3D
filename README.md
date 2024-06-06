@@ -1,5 +1,6 @@
 # Up3D
 High definition 3D display on web browser in Javascript
+Inspired by - https://github.com/Lunakepio/Mario-Kart-3.js/
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
